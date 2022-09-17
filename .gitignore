@@ -1,0 +1,4 @@
+db.sqlite3
+venv
+__pycache__
+# SECRET_KEY = 'django-insecure-c3)o&$cd1d1qenf2jkylq+_q)s=y0(3xk%m-0uu%j+**#sc)nt'
